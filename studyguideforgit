@@ -4,7 +4,7 @@ Version control is a system that allowed developers to keep track of their progr
 
 2. Where the heart is
 What is the difference between distributed and centralized version control systems?
-
+Everybody has a copy of the repository vs centralized where only a main super server has a copy of it and everybody else has a "shallow" copy of it.
 
 3. Versa who?!
 What does a version control program do for us?
