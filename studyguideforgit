@@ -1,0 +1,84 @@
+1. Versa what?!
+What is version control?
+
+2. Where the heart is
+What is the difference between distributed and centralized version control systems?
+
+
+3. Versa who?!
+What does a version control program do for us?
+
+
+4. Committing to git
+What is a commit?
+
+
+5. Checking out git
+What is a check out?
+
+6. It’s like a tree limb
+What is a branch?
+
+
+7. The life of a limb
+How long are branches in git supposed to exist?
+
+
+8. Tree growth
+How do you create a branch in git?
+
+
+9. Swinging on a vine
+How do you switch branches in git?
+
+
+10. Taping it together
+How do you merge branches in git?
+
+
+11. Status
+How do you check the status of the files you are presently working on?
+
+
+12. Adding to the chaos
+How do you add files to the repository?
+
+
+13. The main line
+What is the name for the primary branch in git?
+
+
+14. What limb are you on?
+How do you check which branch you presently have checked out?
+
+
+15. Git what?!
+What is github?
+
+
+16. We see a need!
+Why was git created?
+
+
+17. A day in the life of git
+What is a typical git workflow?
+
+
+18. Why git?
+What makes git different than other version control systems?
+
+
+19. What were they thinking?!
+What were the design criteria for git?
+
+
+20. Time machine
+How do we view the past of a project with git?
+
+
+21. Commit Comment
+How much information, and what kind of information should be in a commit message?
+
+
+22. Great Scott!
+If there was a mistake made in the past of a project, how should we go about correcting that mistake?
