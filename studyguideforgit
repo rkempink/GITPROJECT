@@ -16,70 +16,73 @@ A commit is when you log your progression during a project or assignment
 
 5. Checking out git
 What is a check out?
+Switches you to whichever branch of your choosing by switching the HEAD
 
 6. It’s like a tree limb
 What is a branch?
-
+brand new working directory from your main, a new work area
 
 7. The life of a limb
 How long are branches in git supposed to exist?
-
+as long as you need it to
 
 8. Tree growth
-How do you create a branch in git?
-
+How do you create a branch in git? 
+git checkout, then create a new sub repository
 
 9. Swinging on a vine
 How do you switch branches in git?
-
+use git checkout command
 
 10. Taping it together
 How do you merge branches in git?
-
+git merge
 
 11. Status
 How do you check the status of the files you are presently working on?
-
+git status
 
 12. Adding to the chaos
 How do you add files to the repository?
-
+git add
 
 13. The main line
 What is the name for the primary branch in git?
-
+master
 
 14. What limb are you on?
 How do you check which branch you presently have checked out?
-
+git branch
 
 15. Git what?!
 What is github?
-
+github is an online repository
 
 16. We see a need!
 Why was git created?
-
+they wanted to further improve linux kernel
 
 17. A day in the life of git
 What is a typical git workflow?
-
+create a repository, add files, commit
 
 18. Why git?
 What makes git different than other version control systems?
-
+simple to use, easy to understand, everybody has access
 
 19. What were they thinking?!
 What were the design criteria for git?
-
+user friendly
 
 20. Time machine
 How do we view the past of a project with git?
-
+git log
 
 21. Commit Comment
 How much information, and what kind of information should be in a commit message?
-
+exactly what was done
 
 22. Great Scott!
 If there was a mistake made in the past of a project, how should we go about correcting that mistake?
+never go back in the past, just correct it and mention it in future commits
+
